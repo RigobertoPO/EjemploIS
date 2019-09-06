@@ -16,5 +16,13 @@ namespace PEPSI.Inventarios.Windows
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            PEPSI.Calculadora.Library.Calcular obj =
+                new PEPSI.Calculadora.Library.Calcular();
+
+            MessageBox.Show(obj.Saludar());
+        }
     }
 }

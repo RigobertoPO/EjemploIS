@@ -1,0 +1,5 @@
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Calculadora.Library\bin\Debug\PEPSI.Calculadora.Library.dll
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Calculadora.Library\bin\Debug\PEPSI.Calculadora.Library.pdb
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Calculadora.Library\obj\Debug\PEPSI.Calculadora.Library.csproj.CoreCompileInputs.cache
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Calculadora.Library\obj\Debug\PEPSI.Calculadora.Library.dll
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Calculadora.Library\obj\Debug\PEPSI.Calculadora.Library.pdb

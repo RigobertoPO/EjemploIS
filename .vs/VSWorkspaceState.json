@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PEPSI"
+    "\\PEPSI",
+    "\\PEPSI\\PEPSI.Calculadora.Library"
   ],
-  "SelectedNode": "\\PEPSI\\PEPSI.sln",
+  "SelectedNode": "\\PEPSI\\PEPSI.Calculadora.Library\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }

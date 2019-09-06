@@ -1,0 +1,10 @@
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\bin\Debug\PEPSI.PuntoVenta.Windows.exe.config
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\bin\Debug\PEPSI.PuntoVenta.Windows.exe
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\bin\Debug\PEPSI.PuntoVenta.Windows.pdb
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\bin\Debug\PEPSI.PuntoVenta.Windows.xml
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\obj\Debug\PEPSI.PuntoVenta.Windows.Resources.resources
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\obj\Debug\PEPSI.PuntoVenta.Windows.vbproj.GenerateResource.cache
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\obj\Debug\PEPSI.PuntoVenta.Windows.vbproj.CoreCompileInputs.cache
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\obj\Debug\PEPSI.PuntoVenta.Windows.exe
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\obj\Debug\PEPSI.PuntoVenta.Windows.xml
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.PuntoVenta.Windows\obj\Debug\PEPSI.PuntoVenta.Windows.pdb

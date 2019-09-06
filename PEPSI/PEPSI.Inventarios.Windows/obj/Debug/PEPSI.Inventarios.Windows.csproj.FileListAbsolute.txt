@@ -7,3 +7,16 @@ C:\Users\RigobertoPO\source\repos\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPS
 C:\Users\RigobertoPO\source\repos\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.csproj.CoreCompileInputs.cache
 C:\Users\RigobertoPO\source\repos\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.exe
 C:\Users\RigobertoPO\source\repos\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.pdb
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\bin\Debug\PEPSI.Inventarios.Windows.exe.config
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\bin\Debug\PEPSI.Inventarios.Windows.exe
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\bin\Debug\PEPSI.Inventarios.Windows.pdb
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.Properties.Resources.resources
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.csproj.GenerateResource.cache
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.csproj.CoreCompileInputs.cache
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.exe
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.pdb
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\bin\Debug\PEPSI.Calculadora.Library.dll
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\bin\Debug\PEPSI.Calculadora.Library.pdb
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.csprojAssemblyReference.cache
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.Form1.resources
+C:\Users\RigobertoPO\source\repos\EjemploIS\PEPSI\PEPSI.Inventarios.Windows\obj\Debug\PEPSI.Inventarios.Windows.csproj.CopyComplete
